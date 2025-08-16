@@ -25,8 +25,8 @@ This project demonstrates a **one-to-many relationship** by embedding address ob
 
 ## 🗄️ Checking Data in MongoDB
 After running your project, you can verify the inserted data with the following commands:
-   `mongosh
-   show dbs
-   use relationDemo
-   show collections
+   `mongosh,
+   show dbs,
+   use relationDemo,
+   show collections,
    db.users.find()`
